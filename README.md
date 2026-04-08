@@ -35,5 +35,6 @@
 ---
 
 ## 📫 Contact
-- **Email:** okim2002a@naver.com
-- **Blog/Link:** [여기에 링크를 넣어주세요]
+- 📧 **Email:** [okim2002a@naver.com](mailto:okim2002a@naver.com)
+- 💬 **Open Kakao:** [현수와 1:1 대화하기](https://open.kakao.com/o/svk00rpi)
+- 🐙 **GitHub:** [github.com/waniln](https://github.com/waniln)
