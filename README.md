@@ -15,6 +15,7 @@
 
 ### 📟 Embedded & Hardware
 - **Core:** C, C++, MicroPython, Arduino, Raspberry Pi
+- **Specialized:** Arduino Nicla Vision, Jetson Xavier NX
 
 ### 🏗 Infrastructure & DevOps
 - **Cloud/Infra:** AWS S3, Docker, Linux (Ubuntu/Debian)
@@ -37,4 +38,4 @@
 ## 📫 Contact
 - 📧 **Email:** [okim2002a@naver.com](mailto:okim2002a@naver.com)
 - 💬 **Open Kakao:** [현수와 1:1 대화하기](https://open.kakao.com/o/svk00rpi)
-- 🐙 **GitHub:** [github.com/waniln](https://github.com/waniln)
+- 📝 **Notion Portfolio:** [백엔드 엔지니어 김현수 상세 포트폴리오](https://illustrious-packet-721.notion.site/Developer-Portfolio-e2d3949e2b1e82dcb41b018578d9cf56?source=copy_link)
