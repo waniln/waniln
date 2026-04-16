@@ -1,5 +1,5 @@
-# 안녕하세요, 저는 현수입니다 👋
-Backend Developer · Node.js / Python 
+# Hi, I'm Hyunsoo 👋
+Backend Engineer · Node.js / Python · Open to new opportunities
 
 ---
 
