@@ -1,5 +1,5 @@
 # 안녕하세요, 저는 현수입니다 👋
-Backend Developer · Node.js / Python · 서울/경기 지역 이직 준비 중
+Backend Developer · Node.js / Python 
 
 ---
 
